@@ -95,23 +95,22 @@
 | 89 | threat_view_shash | No clearly documented free public API confirmed | No |
 | 90 | threat_view_url | No clearly documented free public API confirmed | No |
 | 91 | ThreatFox | Free API / community access | Yes |
-| 92 | ThreatFox / URLhaus (combined feed) | No clearly documented free public API confirmed | Yes — both integrations present |
-| 93 | ThreatView feeds (consolidated) | No clearly documented free public API confirmed | No |
-| 94 | Tor Exit Nodes | No clearly documented free public API confirmed | No |
-| 95 | TRCERT | Free public data/feed; API availability varies | No |
-| 96 | Triage | No clearly documented free public API confirmed | No |
-| 97 | Tweetfeed | No clearly documented free public API confirmed | No |
-| 98 | Twitter | No clearly documented free public API confirmed | No |
-| 99 | URL Abuse | No clearly documented free public API confirmed | No |
-| 100 | URLhaus | Free API / community access | Yes |
-| 101 | URLScan phishing | Free API tier / limits apply | No |
-| 102 | v.firebog.net | No clearly documented free public API confirmed | No |
-| 103 | Validin | Commercial / paid access; free API not confirmed | No |
-| 104 | viriback | No clearly documented free public API confirmed | No |
-| 105 | VXvault | No clearly documented free public API confirmed | No |
-| 106 | xRuffKez | No clearly documented free public API confirmed | No |
-| 107 | ZeroDot1 | No clearly documented free public API confirmed | No |
-| 108 | Censys | Free API access for limited host, certificate, and web-property lookups; broader search endpoints require a paid tier/credits. | No |
-| 109 | Google Threat Intelligence (GTI) | API requires an active GTI licence, organisation project ID, and GTI API key; no general free public API tier confirmed. | No |
-| 110 | Shodan | Free API key available; query credits and advanced search, scanning, and streaming access depend on account plan/credits. | No |
-| 111 | MISSP (MISP feed collector and IOC search) | Local IOC search requires no external API key. Connecting to a MISP instance through its REST API requires a MISP API key; available feeds depend on the configured sources. | Yes |
+| 92 | ThreatView feeds (consolidated) | No clearly documented free public API confirmed | No |
+| 93 | Tor Exit Nodes | No clearly documented free public API confirmed | No |
+| 94 | TRCERT | Free public data/feed; API availability varies | No |
+| 95 | Triage | No clearly documented free public API confirmed | No |
+| 96 | Tweetfeed | No clearly documented free public API confirmed | No |
+| 97 | Twitter | No clearly documented free public API confirmed | No |
+| 98 | URL Abuse | No clearly documented free public API confirmed | No |
+| 99 | URLhaus | Free API / community access | Yes |
+| 100 | URLScan phishing | Free API tier / limits apply | No |
+| 101 | v.firebog.net | No clearly documented free public API confirmed | No |
+| 102 | Validin | Commercial / paid access; free API not confirmed | No |
+| 103 | viriback | No clearly documented free public API confirmed | No |
+| 104 | VXvault | No clearly documented free public API confirmed | No |
+| 105 | xRuffKez | No clearly documented free public API confirmed | No |
+| 106 | ZeroDot1 | No clearly documented free public API confirmed | No |
+| 107 | Censys | Free API access for limited host, certificate, and web-property lookups; broader search endpoints require a paid tier/credits. | No |
+| 108 | Google Threat Intelligence (GTI) | API requires an active GTI licence, organisation project ID, and GTI API key; no general free public API tier confirmed. | No |
+| 109 | Shodan | Free API key available; query credits and advanced search, scanning, and streaming access depend on account plan/credits. | No |
+| 110 | MISSP (MISP feed collector and IOC search) | Local IOC search requires no external API key. Connecting to a MISP instance through its REST API requires a MISP API key; available feeds depend on the configured sources. | Yes |
