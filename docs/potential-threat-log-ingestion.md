@@ -19,7 +19,6 @@
 | 13 | CyberCure | No clearly documented free public API confirmed | No |
 | 14 | Cymru | Free API / community access | No |
 | 15 | Dan.me | No clearly documented free public API confirmed | No |
-| 16 | Daniel Gerzo FreeBSD Homepage | No clearly documented free public API confirmed | No |
 | 17 | dataplane.org | No clearly documented free public API confirmed | No |
 | 18 | Discord-AntiScam | No clearly documented free public API confirmed | No |
 | 19 | Emerging Threats | Free API / community access | No |
