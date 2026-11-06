@@ -83,3 +83,4 @@
 | 77 | Censys | Free API access for limited host, certificate, and web-property lookups; broader search endpoints require a paid tier/credits. | No |
 | 78 | Google Threat Intelligence (GTI) | API requires an active GTI licence, organisation project ID, and GTI API key; no general free public API tier confirmed. | No |
 | 79 | Shodan | Free API key available; query credits and advanced search, scanning, and streaming access depend on account plan/credits. | No |
+| 80 | [Hudson Rock Cavalier](https://www.hudsonrock.com/cavalier) | Commercial API; API key required. Threat-feed endpoints are permissioned/add-on features. | No |
