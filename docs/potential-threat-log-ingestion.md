@@ -22,7 +22,6 @@
 | 17 | dataplane.org | No clearly documented free public API confirmed | No |
 | 18 | Discord-AntiScam | No clearly documented free public API confirmed | No |
 | 19 | Emerging Threats | Free API / community access | No |
-| 20 | emergingthreats.net | No clearly documented free public API confirmed | No |
 | 21 | ESET | Free public data/feed; API availability varies | No |
 | 22 | Feodo Tracker | Free API / community access | No |
 | 23 | gloablantiscam | No clearly documented free public API confirmed | No |
