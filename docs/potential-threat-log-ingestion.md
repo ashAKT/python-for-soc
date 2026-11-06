@@ -49,47 +49,43 @@
 | 43 | MalwareBazaar | Free API / community access | Yes |
 | 44 | VirusTotal | Free tier / limited API; public API has strict rate limits and non-commercial-use restrictions. | Yes |
 | 45 | MISP (feed framework) | Free API / community access | Yes |
-| 46 | Monty Security | No clearly documented free public API confirmed | No |
-| 47 | myip.ms | No clearly documented free public API confirmed | No |
-| 48 | nuug.no | No clearly documented free public API confirmed | No |
-| 49 | Open Source Intelligence Feed | Free feed download; API not confirmed | No |
-| 50 | Open Source Objectionable Website Feed | Free feed download; API not confirmed | No |
-| 51 | openphish | No clearly documented free public API confirmed | No |
-| 52 | pan-unit42 | No clearly documented free public API confirmed | No |
-| 53 | phishing_army | No clearly documented free public API confirmed | No |
-| 54 | Phishtank | No clearly documented free public API confirmed | No |
-| 55 | phishunt.io | No clearly documented free public API confirmed | No |
-| 56 | Proofpoint Compromised IPs | No clearly documented free public API confirmed | No |
-| 57 | Quentin McGaw qdm13 | No clearly documented free public API confirmed | No |
-| 58 | romainmarcoux | No clearly documented free public API confirmed | No |
-| 59 | sblam | No clearly documented free public API confirmed | No |
-| 60 | secure.tucha.ua | No clearly documented free public API confirmed | No |
-| 61 | Sentinel Turris | No clearly documented free public API confirmed | No |
-| 62 | Snort | No clearly documented free public API confirmed | No |
-| 63 | spmedia | No clearly documented free public API confirmed | No |
-| 64 | Spys.me | No clearly documented free public API confirmed | No |
-| 65 | SSL Blacklist (abuse.ch) | Free API / community access | No |
-| 66 | stamparm | No clearly documented free public API confirmed | No |
-| 67 | Talos Intelligence | Free tier / limited API | No |
-| 68 | Tempest-Solutions-Company | No clearly documented free public API confirmed | No |
-| 69 | ThreatView (consolidated IOC feed: domain, hash, IOC, IP, SHA-256 hash, and URL) | No clearly documented free public API confirmed | No |
-| 70 | ThreatFox | Free API / community access | Yes |
-| 71 | ThreatView feeds (consolidated) | No clearly documented free public API confirmed | No |
-| 72 | Tor Exit Nodes | No clearly documented free public API confirmed | No |
-| 73 | TRCERT | Free public data/feed; API availability varies | No |
-| 74 | Triage | No clearly documented free public API confirmed | No |
-| 75 | Tweetfeed | No clearly documented free public API confirmed | No |
-| 76 | Twitter | No clearly documented free public API confirmed | No |
-| 77 | URL Abuse | No clearly documented free public API confirmed | No |
-| 78 | URLhaus | Free API / community access | Yes |
-| 79 | URLScan phishing | Free API tier / limits apply | No |
-| 80 | v.firebog.net | No clearly documented free public API confirmed | No |
-| 81 | Validin | Commercial / paid access; free API not confirmed | No |
-| 82 | viriback | No clearly documented free public API confirmed | No |
-| 83 | VXvault | No clearly documented free public API confirmed | No |
-| 84 | xRuffKez | No clearly documented free public API confirmed | No |
-| 85 | ZeroDot1 | No clearly documented free public API confirmed | No |
-| 86 | Censys | Free API access for limited host, certificate, and web-property lookups; broader search endpoints require a paid tier/credits. | No |
-| 87 | Google Threat Intelligence (GTI) | API requires an active GTI licence, organisation project ID, and GTI API key; no general free public API tier confirmed. | No |
-| 88 | Shodan | Free API key available; query credits and advanced search, scanning, and streaming access depend on account plan/credits. | No |
-| 89 | MISSP (MISP feed collector and IOC search) | Local IOC search requires no external API key. Connecting to a MISP instance through its REST API requires a MISP API key; available feeds depend on the configured sources. | Yes |
+| 46 | myip.ms | No clearly documented free public API confirmed | No |
+| 47 | nuug.no | No clearly documented free public API confirmed | No |
+| 48 | openphish | No clearly documented free public API confirmed | No |
+| 49 | pan-unit42 | No clearly documented free public API confirmed | No |
+| 50 | phishing_army | No clearly documented free public API confirmed | No |
+| 51 | Phishtank | No clearly documented free public API confirmed | No |
+| 52 | phishunt.io | No clearly documented free public API confirmed | No |
+| 53 | Proofpoint Compromised IPs | No clearly documented free public API confirmed | No |
+| 54 | Quentin McGaw qdm13 | No clearly documented free public API confirmed | No |
+| 55 | romainmarcoux | No clearly documented free public API confirmed | No |
+| 56 | sblam | No clearly documented free public API confirmed | No |
+| 57 | secure.tucha.ua | No clearly documented free public API confirmed | No |
+| 58 | Sentinel Turris | No clearly documented free public API confirmed | No |
+| 59 | Snort | No clearly documented free public API confirmed | No |
+| 60 | spmedia | No clearly documented free public API confirmed | No |
+| 61 | Spys.me | No clearly documented free public API confirmed | No |
+| 62 | SSL Blacklist (abuse.ch) | Free API / community access | No |
+| 63 | stamparm | No clearly documented free public API confirmed | No |
+| 64 | Talos Intelligence | Free tier / limited API | No |
+| 65 | Tempest-Solutions-Company | No clearly documented free public API confirmed | No |
+| 66 | ThreatView (consolidated IOC feed: domain, hash, IOC, IP, SHA-256 hash, and URL) | No clearly documented free public API confirmed | No |
+| 67 | ThreatFox | Free API / community access | Yes |
+| 68 | ThreatView feeds (consolidated) | No clearly documented free public API confirmed | No |
+| 69 | Tor Exit Nodes | No clearly documented free public API confirmed | No |
+| 70 | TRCERT | Free public data/feed; API availability varies | No |
+| 71 | Triage | No clearly documented free public API confirmed | No |
+| 72 | Tweetfeed | No clearly documented free public API confirmed | No |
+| 73 | Twitter | No clearly documented free public API confirmed | No |
+| 74 | URL Abuse | No clearly documented free public API confirmed | No |
+| 75 | URLhaus | Free API / community access | Yes |
+| 76 | URLScan phishing | Free API tier / limits apply | No |
+| 77 | v.firebog.net | No clearly documented free public API confirmed | No |
+| 78 | Validin | Commercial / paid access; free API not confirmed | No |
+| 79 | viriback | No clearly documented free public API confirmed | No |
+| 80 | VXvault | No clearly documented free public API confirmed | No |
+| 81 | xRuffKez | No clearly documented free public API confirmed | No |
+| 82 | ZeroDot1 | No clearly documented free public API confirmed | No |
+| 83 | Censys | Free API access for limited host, certificate, and web-property lookups; broader search endpoints require a paid tier/credits. | No |
+| 84 | Google Threat Intelligence (GTI) | API requires an active GTI licence, organisation project ID, and GTI API key; no general free public API tier confirmed. | No |
+| 85 | Shodan | Free API key available; query credits and advanced search, scanning, and streaming access depend on account plan/credits. | No |
