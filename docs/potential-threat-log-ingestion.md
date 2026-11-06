@@ -32,7 +32,6 @@
 | 30 | ktsaou | No clearly documented free public API confirmed | No |
 | 32 | Maliverse | No clearly documented free public API confirmed | No |
 | 33 | MalShare | Free API / community access | No |
-| 34 | MalSilo | No clearly documented free public API confirmed | No |
 | 35 | Maltrail | No clearly documented free public API confirmed | No |
 | 36 | Malware Patrol | Free and commercial feeds available; API availability not confirmed | No |
 | 37 | MalwareBazaar | Free API / community access | Yes |
