@@ -24,7 +24,6 @@
 | 19 | Emerging Threats | Free API / community access | No |
 | 21 | ESET | Free public data/feed; API availability varies | No |
 | 22 | Feodo Tracker | Free API / community access | No |
-| 23 | gloablantiscam | No clearly documented free public API confirmed | No |
 | 24 | GreenSnow | Free feed download; API not confirmed | No |
 | 25 | HYAS | Commercial / paid access; free API not confirmed | No |
 | 26 | Hybrid Analysis | Free tier / limited API | Yes |
