@@ -27,7 +27,6 @@
 | 24 | GreenSnow | Free feed download; API not confirmed | No |
 | 25 | HYAS | Commercial / paid access; free API not confirmed | No |
 | 26 | Hybrid Analysis | Free tier / limited API | Yes |
-| 27 | ipspamlist | No clearly documented free public API confirmed | No |
 | 28 | IPsum | Free API / community access | No |
 | 29 | jamesbrine | No clearly documented free public API confirmed | No |
 | 30 | ktsaou | No clearly documented free public API confirmed | No |
