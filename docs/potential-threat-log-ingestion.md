@@ -96,7 +96,7 @@
 | 90 | threat_view_url | No clearly documented free public API confirmed | No |
 | 91 | ThreatFox | Free API / community access | Yes |
 | 92 | ThreatFox / URLhaus (combined feed) | No clearly documented free public API confirmed | Yes — both integrations present |
-| 93 | threatview | No clearly documented free public API confirmed | No |
+| 93 | ThreatView feeds (consolidated) | No clearly documented free public API confirmed | No |
 | 94 | Tor Exit Nodes | No clearly documented free public API confirmed | No |
 | 95 | TRCERT | Free public data/feed; API availability varies | No |
 | 96 | Triage | No clearly documented free public API confirmed | No |
