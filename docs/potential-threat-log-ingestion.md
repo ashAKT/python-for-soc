@@ -4,7 +4,7 @@
 
 | S. No. | Threat feed sources | API support | Already in my repo? |
 |---:|---|---|---|
-| 1 | abuse.ch (feed family: **URLhaus** — malware URLs, hostnames/domains and payload hashes; **ThreatFox** — C2 IPs, domains, URLs and hashes; **MalwareBazaar** — malware file hashes and sample metadata; **Feodo Tracker** — botnet C2 IPs; **SSLBL / SSL Blacklist** — malicious SSL certificates, JA3 fingerprints and C2 IP:port indicators) | Community Auth-Key APIs: URLhaus, ThreatFox and MalwareBazaar. Feodo Tracker and SSLBL offer separate public feed downloads; do not assume the same Auth-Key applies. | Partially — URLhaus, ThreatFox and MalwareBazaar are integrated through `abusech/`; Feodo Tracker and SSLBL are not confirmed integrated |
+| 1 | **abuse.ch** — URLhaus, ThreatFox and MalwareBazaar | Free community APIs; Auth-Key required | Yes — integrated under `abusech/` |
 | 2 | AbuseIPDB | Free tier / limited API | Yes |
 | 3 | AlienVault OTX | Free tier / limited API | Yes |
 | 4 | BGP Scan by CIRCL | Free API / community access | No |
@@ -78,3 +78,13 @@
 | 78 | Google Threat Intelligence (GTI) | API requires an active GTI licence, organisation project ID, and GTI API key; no general free public API tier confirmed. | No |
 | 79 | Shodan | Free API key available; query credits and advanced search, scanning, and streaming access depend on account plan/credits. | No |
 | 80 | [Hudson Rock Cavalier](https://www.hudsonrock.com/cavalier) | Commercial API; API key required. Threat-feed endpoints are permissioned/add-on features. | No |
+
+### abuse.ch — included threat feeds
+
+The `abusech/` integration covers three threat-intelligence services:
+
+- **URLhaus** — malicious URLs, associated domains and malware payload hashes.
+- **ThreatFox** — malicious IP addresses, domains, URLs and file hashes, including command-and-control (C2) indicators.
+- **MalwareBazaar** — malware samples, MD5/SHA1/SHA256 hashes and malware-family metadata.
+
+**Authentication:** The community APIs use an abuse.ch Auth-Key. Preserve the feed name and indicator type when collecting and storing IOCs.
