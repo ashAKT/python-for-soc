@@ -4,7 +4,7 @@
 
 | S. No. | Threat feed sources | API support | Already in my repo? |
 |---:|---|---|---|
-| 1 | **abuse.ch** — URLhaus, ThreatFox and MalwareBazaar | Free community APIs; Auth-Key required | Yes — integrated under `abusech/` |
+| 1 | **abuse.ch** — URLhaus, ThreatFox and MalwareBazaar | Free community APIs; Auth-Key required | Yes |
 | 2 | AbuseIPDB | Free tier / limited API | Yes |
 | 3 | AlienVault OTX | Free tier / limited API | Yes |
 | 4 | BGP Scan by CIRCL | Free API / community access | No |
