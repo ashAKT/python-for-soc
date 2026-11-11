@@ -4,7 +4,7 @@
 
 | S. No. | Threat feed sources | API support | Already in my repo? |
 |---:|---|---|---|
-| 1 | abuse.ch (general feeds) | No clearly documented free public API confirmed | Partially — specific abuse.ch integrations are present |
+| 1 | abuse.ch (feed family: **URLhaus** — malware URLs, hostnames/domains and payload hashes; **ThreatFox** — C2 IPs, domains, URLs and hashes; **MalwareBazaar** — malware file hashes and sample metadata; **Feodo Tracker** — botnet C2 IPs; **SSLBL / SSL Blacklist** — malicious SSL certificates, JA3 fingerprints and C2 IP:port indicators) | Community Auth-Key APIs: URLhaus, ThreatFox and MalwareBazaar. Feodo Tracker and SSLBL offer separate public feed downloads; do not assume the same Auth-Key applies. | Partially — URLhaus, ThreatFox and MalwareBazaar are integrated through `abusech/`; Feodo Tracker and SSLBL are not confirmed integrated |
 | 2 | AbuseIPDB | Free tier / limited API | Yes |
 | 3 | AlienVault OTX | Free tier / limited API | Yes |
 | 4 | BGP Scan by CIRCL | Free API / community access | No |
