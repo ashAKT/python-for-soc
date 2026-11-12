@@ -38,7 +38,6 @@
 | 38 | VirusTotal | Free tier / limited API; public API has strict rate limits and non-commercial-use restrictions. | Yes |
 | 39 | MISP (feed framework) | Free API / community access | Yes |
 | 40 | myip.ms | No clearly documented free public API confirmed | No |
-| 41 | nuug.no | No clearly documented free public API confirmed | No |
 | 42 | openphish | No clearly documented free public API confirmed | No |
 | 43 | pan-unit42 | No clearly documented free public API confirmed | No |
 | 44 | phishing_army | No clearly documented free public API confirmed | No |
